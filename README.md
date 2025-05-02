@@ -80,10 +80,3 @@ Books are saved automatically in library.txt.
 📄 License
 
 This project is licensed under the MIT License.
-🤝 Contributions
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-
-Would you like help creating a logo, turning it into a `.exe` file, or setting it up as a desktop app?
-
